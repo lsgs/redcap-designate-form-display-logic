@@ -71,6 +71,10 @@ class DesignateFDL extends AbstractExternalModule
                 logic_missing = '<?=\RCView::tt_js('design_989') ?>';
                 duplicate_warning = '<?=\RCView::tt_js('design_971') ?>';
                 confirm_msg = '<?=\RCView::tt_js('design_972') ?>';
+                langFDL1 = '<?=\RCView::tt_js('design_993') ?>';
+                langFDL2 = '<?=\RCView::tt_js('design_994') ?>';
+                langFDL3 = '<?=\RCView::tt_js('design_995') ?>';
+                langFDL4 = '<?=\RCView::tt_js('design_1093') ?>';
                 delete_conditions = function() { return false; }
 
                 var module = <?=$this->getJavascriptModuleObjectName()?>;
