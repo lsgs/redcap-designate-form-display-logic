@@ -1,5 +1,5 @@
 {
-    "name": "Designate Form Display Logic",
+    "name": "Focussed Form Display Logic",
     "namespace": "MCRI\\DesignateFDL",
     "authors": [
         {
@@ -8,6 +8,6 @@
             "institution": "Murdoch Children's Research Institute"
         }
     ],
-    "description": "View and edit Form Display Logic rules by Event and Instrument via the Designate Instruments to My Events page.",
+    "description": "View and edit Form Display Logic rules using a focused context:<ul><li>by Instrument in the Online Designer table of instruments</li><li>by Event and Instrument on the Designate Instruments to My Events page</li><ul>",
     "framework-version": 16
 }

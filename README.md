@@ -1,5 +1,5 @@
 ********************************************************************************
-# Designate Form Display Logic
+# Focussed Form Display Logic
 
 Luke Stevens, Murdoch Children's Research Institute https://www.mcri.edu.au
 
@@ -8,7 +8,9 @@ Luke Stevens, Murdoch Children's Research Institute https://www.mcri.edu.au
 ********************************************************************************
 ## Summary
 
-View and edit Form Display Logic (FDL) rules by Event and Instrument via the "Designate Instruments to My Events" page.
+View and edit Form Display Logic rules using a focused context:
+- by Instrument in the Online Designer table of instruments
+- by Event and Instrument on the Designate Instruments to My Events page
 
 ## Configuration
 
@@ -16,7 +18,7 @@ There are no module-specific configuration settings for this external module.
 
 ## Operation
 
-The module operates on the "Designate Instruments to My Events" page only. When enabled on a project, each designated event/form pair will be augmented with the Form Display Logic "eye-with-slach" icon.
+The module operates on the "Online Designer" instrument list and "Designate Instruments to My Events" pages only. When enabled on a project, each instrument or designated event/form pair will be augmented with the Form Display Logic "eye-with-slash" icon.
 
 The added icon provides the following behaviours:
 - Light grey colour indicates there are currently no FDL controls applicable to the event/form.
