@@ -1,6 +1,6 @@
 {
-    "name": "Focussed Form Display Logic",
-    "namespace": "MCRI\\DesignateFDL",
+    "name": "Focused Form Display Logic",
+    "namespace": "MCRI\\FocusedFDL",
     "authors": [
         {
             "name": "Luke Stevens",
@@ -8,6 +8,6 @@
             "institution": "Murdoch Children's Research Institute"
         }
     ],
-    "description": "View and edit Form Display Logic rules using a focused context:<ul><li>by Instrument in the Online Designer table of instruments</li><li>by Event and Instrument on the Designate Instruments to My Events page</li><ul>",
+    "description": "View and edit Form Display Logic (FDL) rules using a focused context:<ul><li>by Instrument in the Online Designer table of instruments</li><li>by Event and Instrument on the Designate Instruments to My Events page</li><ul>",
     "framework-version": 16
 }

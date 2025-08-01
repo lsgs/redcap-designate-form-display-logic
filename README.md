@@ -1,5 +1,5 @@
 ********************************************************************************
-# Focussed Form Display Logic
+# Focused Form Display Logic
 
 Luke Stevens, Murdoch Children's Research Institute https://www.mcri.edu.au
 
@@ -29,6 +29,14 @@ The added icon provides the following behaviours:
     - The "Delete all conditions" button is hidden.
     - Only conditions applicable to the event/form are shown. All other conditions are hidden.
     - Adding new conditions is allowed.
+
+## Screenshots
+
+### Online Designer Instrument List
+
+<img alt="Screenshot showing Form Display Logic icons on Online Designer instrument list page." src="https://redcap.link/instrument-fdl" />
+
+### Designate Instruments to My Events
 
 <img alt="Screenshot showing Form Display Logic icons on Designate Instruments page." src="https://redcap.link/designate-fdl" />
 
